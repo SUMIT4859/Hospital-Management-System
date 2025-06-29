@@ -1,6 +1,4 @@
-# Create and write a README.md file for Hospital Management System
 
-readme_content = """
 # Hospital Management System
 
 A full-stack web application built using PHP, MySQL, HTML, CSS, and Bootstrap, designed to manage and streamline hospital operations. It includes modules for admin, doctors, and patients, featuring secure role-based access, record management, appointment scheduling, and billing functionalities.
@@ -56,10 +54,10 @@ A full-stack web application built using PHP, MySQL, HTML, CSS, and Bootstrap, d
 
 ## 👨‍💻 Author
 
-**Sumitkumar Pandit**  
+Sumitkumar Pandit
 📧 Email: sumitkumar9059514@gmail.com  
 🔗 GitHub: [https://github.com/SUMIT4859](https://github.com/SUMIT4859)
-"""
+
 
 # Save to a file
 with open("README.md", "w", encoding="utf-8") as f:

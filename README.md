@@ -59,8 +59,3 @@ Sumitkumar Pandit
 🔗 GitHub: [https://github.com/SUMIT4859](https://github.com/SUMIT4859)
 
 
-# Save to a file
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md has been created successfully.")
